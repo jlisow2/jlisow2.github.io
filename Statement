@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+      <div style = "position:absolute; left:320px; right:100px; background-color:#9E9E9E26;">
+        <p>
+          Joshua Lisowski
+          <p>
+            <p>
+          'Infinite Possibilities'
+              <p>
+                        <p>
+2022
+          <p>
+         This Project is meant to show the possibilities of what glitch can do. I wanted to explore a type of art that I did not have much experience with. There are so many possibilities that could be explored through glitch art. That is why the camera is working directly through glitch. I wanted to show myself and others in a different way than just looking the same everyday. My mind and my eyes have been opened because of this project, which now makes me want to work with glitches more. My own interpretation of glitch art was very closed minded until the development of this project. I now feel it is beautiful to have glitches and those glitches should be embraced.
+      </div>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
+</html>
